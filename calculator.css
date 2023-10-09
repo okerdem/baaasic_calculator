@@ -1,0 +1,41 @@
+body {
+  background-color: #EAE7E4;
+}
+
+input[type=text] {
+  width: 185px;
+  height: 42px;
+  margin: 3px;
+  background-color: #BABABA;
+  font-size: xx-large;
+  text-align: center;
+}
+
+.operator {
+  background-color: #EAA472;
+  border-radius: 30%;
+  width: 40px;
+  height: 40px;
+  margin: 3px;
+  color: black;
+}
+
+.number {
+  width: 40px;
+  height: 40px;
+  margin: 3px;
+  color: white;
+  background-color: #393732;
+}
+
+.calculator_keys {
+  display: grid;
+}
+
+.calculator {
+  width: 240px;
+  height: 280px;
+  border-radius: 25px;
+  margin: auto;
+  margin-top: 10%;
+}
